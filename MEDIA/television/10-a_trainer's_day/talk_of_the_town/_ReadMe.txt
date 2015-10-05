@@ -1,0 +1,5 @@
+Talk of the Town
+
+A program that relates simple stories from Pokémon Trainers. This program only airs in Hoenn. This program updates whenever the player gives the interviewer in the Oceanic Museum an interview.
+
+"Welcome to Talk of the Town. For Pokémon Trainers, each day is a new tale to be told. Here at Talk of the Town, we're delighted to be able to introduce those tales to you. The leading role in today's tale will be played by none other than <name>. What's new in <name>'s world lately? Let's find out right away! Hmm... "<quote>." I see. Now I can understand what's been happening with <name> lately. I'm sure that <name>'s <Pokémon> went through that too, right? <name> shared a pleasant story with us today. And now you, too, can hold in your heart a little story called "<name>." Please join us again for our next broadcast."

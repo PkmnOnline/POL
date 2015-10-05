@@ -1,0 +1,1 @@
+The Kanto Safari Zone is broken into 4 quadrants, each containing a Rest House. Since the Warden closed the attraction, it has been supplanted by the Pal Park. The old Safari Zone remains accessible to the general public (free of charge), albeit without the Safari Game. Area 3 of the Safari Zone also contains a "Secret House".

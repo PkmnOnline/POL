@@ -1,0 +1,8 @@
+Card Flip
+
+In playing card flip, players place bets on cards that may be flipped over. The deck used contains 24 cards: each one has both a number (between one and six) and a picture of a Pokémon (either Pikachu, Jigglypuff, Oddish, or Poliwag). The cards are dealt in pairs, and from each pair, the player chooses one card to bet on. Once all 24 cards have been dealt (12 cards have been chosen), the deck is reshuffled.
+Bets can be placed in five different ways. Players may either bet on a single card, a single column, a single row, a pair of columns, or a pair of rows. When betting in pairs, limitations are placed. Betting in rows can only be made by pairing an odd number and the subsequent even number (i.e. 1 paired with 2, 3 paired with 4, 5 paired with 6). Betting in columns can only happen when either Pikachu and Jigglypuff or Oddish and Poliwag are paired.
+Appropriately, the lower the odds of winning are, the higher the payout will be. By betting only on a single card, the player will get 24 times the bet amount in return, given a win. By winning a bet on a single number the player will get six times the bet amount, by Pokémon four times, by two numbers three times, and by two Pokémon two times.
+Unlike the Roulette game featured in Pokémon Ruby, Sapphire, and Emerald, betting by species or number does not increase the payout if some possibilities are removed from the board.
+Strategy
+The player edge in the card-flip game if all bets are made on a single card is 34.55%, about 4% higher than in Roulette. It can be mathematically proven that there is no better system than placing all bets on a single card.

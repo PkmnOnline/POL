@@ -1,0 +1,21 @@
+Quest Name:
+	Turtles All The Way Down!
+Requirements:
+	5 Badges
+Difficulty:
+	Lv35
+Sharable:
+	Yes
+Relevant Location(s):
+	Turtle Island
+Start:
+	Muten Roshi on Turtle Island
+Finish:
+	Muten Roshi on Turtle Island
+Dialogue:
+	Muten Roshi (Accepting): It's turtles all the way down! Catch one of each kind of Turtle or Tortoise lookin' Pokemon and I'll get ya something nice!
+	Muten Roshi (Completing): You really did it! Take this! It's the Real Deal kiddo!
+Tasks: 
+	Obtain Pokedex Entries for the following Pokemon: 007, 008, 009, 131, 324, 387, 388, 389, 564, 565
+Rewards:
+	[Turtle Hermit Backpack] Clothing item

@@ -1,0 +1,2 @@
+Hot Hit Tunes
+	Counts down the top three songs of the week, which are always the same but with key words replaced. The third song title is based off the Pokémon that is first in the player's Party. The second song is merely at random, but sometimes can be based off of an Accessory or something found in the player's Bag. The number one song is based off of the Pokémon the player has recently captured or traded.

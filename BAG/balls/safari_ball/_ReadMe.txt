@@ -1,0 +1,1 @@
+Equivalent to a Safari Ball. Swapped to a Safari Ball if migrated to the Bank.

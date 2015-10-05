@@ -1,0 +1,24 @@
+# Blender MTL File: 'Object Lighting for VG Resource thumbnails.blend'
+# Material Count: 2
+
+newmtl gym06_kage01.png.001
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.261247 0.353614 0.332532
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\gym06_kage01.png
+map_d Textures\gym06_kage01.png
+
+newmtl t01r01_award_bg4.png.001
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.282011 0.262390 0.612064
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\t01r01_award_bg4.png
+map_d Textures\t01r01_award_bg4.png

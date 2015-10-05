@@ -1,0 +1,5 @@
+Shall We Dowse?
+
+A program that extolls the virtues of Dowsing. This program updates whenever the player finds a hidden item while they have the Dowsing Machine equipped.
+
+"Host: It's time once again to find that little bit of happiness on... Shall We Dowse?""Audience: (Applause)""Host: Today, we're bringing you yet another Dowsing experience! <name> has used his/her Dowsing Machine <number> time(s)! Amazingly he/she recently found a/an <item>!""Audience member: Oh! Audience member: Awesome!"Randomly selected line:"Host: What's more, just after that <name> found a girlfriend/boyfriend!""Host: What's more, from that day on, apparently <name>'s health greatly improved!""Host: What's more, from then on <name> became so popular with the ladies/fellas that it has become a problem!""Audience member: (Murmur murmur) Audience member: Just like that?!""Host: Well I, for one, am jealous! This, too, is all thanks to the Dowsing Machine!""Audience member: Wow! Wow! Audience member: I'll do that, too!""Host: All of you out there in TV land, wouldn't you like to find a little happiness of your own with a Dowsing Machine? See you next time!"

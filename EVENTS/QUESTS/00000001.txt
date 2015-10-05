@@ -1,0 +1,10 @@
+Quest Name: {Name}
+Requirements: {Badge Reqs, Item Reqs, Pokemon In Party Reqs, Part of a Quest Chain, etc.}
+Difficulty: {Lv1-100}
+Sharable: {Yes/No}
+Relevant Location(s): {}
+Start: {NPC Name & Location}
+Finish: {NPC Name & Location}
+Dialogue: {Listed by NPCs and prompts}
+Tasks: {What the Quest entails}
+Rewards: {Rewards}

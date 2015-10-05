@@ -1,0 +1,22 @@
+# Blender MTL File: 'Object Lighting for VG Resource thumbnails.blend'
+# Material Count: 2
+
+newmtl kudakikabe1.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.619420 0.509419 0.430467
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\kudakikabe1.png
+
+newmtl kudakikabe2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.674494 0.600200 0.698340
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\kudakikabe2.png

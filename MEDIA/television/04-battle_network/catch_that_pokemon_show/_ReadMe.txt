@@ -1,0 +1,2 @@
+Catch That Pokémon Show
+	Using Pokémon's old motto, a DJ reports how a Trainer "caught our eye with a dandy of a catch", what Pokémon was caught, and how many Poké Balls were used (or, alternately, how the Trainer completely failed at catching the Pokémon).

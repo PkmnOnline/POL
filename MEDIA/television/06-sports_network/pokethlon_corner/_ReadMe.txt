@@ -1,0 +1,2 @@
+Pokéthlon Corner
+	Johto-exclusive reports on Pokéthletes about the competitions they have just participated in, and what their feelings are about it. Activated by talking to a reporter after participating in a competition.

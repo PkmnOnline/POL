@@ -1,0 +1,2 @@
+We Love the GTS!
+	A reporter asks a random bystander in the GTS station what they think of the Pokémon that they've received. The interview subject gives generally positive reviews, but wonders why his Pokémon has such a strange set of moves; Cut, Explosion, Double-Edge, and Reversal. The Pokémon is not named, but the only Pokémon that can learn all four of these moves is Smeargle.

@@ -1,0 +1,11 @@
+Pretty much every Pokemon and character appear to have textured eyes which are switched between by changing the UV offsets. Quite a few also have their pupils on a seperate mesh placed over the face with alpha masking. Depending on the Pokemon if they have a suitably placed jaw it's rigged into the skeleton otherwise they also use textures for the mouth.
+
+
+Pokemon Channel Eggs
+Aipom, Azurill, Bellsprout, Cleffa, Hoppip, Igglybuff, Krabby, Ledyba, Magby, Mudkip, Phanpy, Pichu, Sentret, Slowpoke, Smoochum, Swinub, Teddiursa, Togepi, Torchic, Treecko, Wooper, and Wynaut. Pokémon that hatch from plain white Eggs include Bulbasaur, Chansey, Charmander, Chikorita, Corsola, Cubone, Diglett, Delibird, Eevee, Geodude, Goldeen, Hoothoot, Koffing, Mr. Mime, Natu, Poliwag, Psyduck, Remoraid, Shellder, Smeargle, Squirtle, Sudowoodo, Vulpix, and Zubat
+
+Anime Eggs
+Eevee, Cyndaquil, Mudkip, Togepi, Phanpy, Larvitar, Noibat, Happiny, Scraggy, Manaphy, Elekid, Sentret, Pichu, Aipom, Vulpix, Bellsprout, Chinchou, Cleffa, Igglybuff, Ledyba, Magby, Sandshrew, Smoochum, Spinarak, Swinub, Teddiursa, Wooper, Slowpoke, and Psyduck
+
+Snap Eggs
+Articuno, Zapdos, and Moltres

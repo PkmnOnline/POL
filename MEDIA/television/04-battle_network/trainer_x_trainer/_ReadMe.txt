@@ -1,0 +1,3 @@
+Trainer x Trainer
+	A program that keeps tabs on Trainers who rebattle each other. This program updates whenever a player has a rematch against a trainer.
+	"Everybody out there, get excited if you love Trainers! Trainer x Trainer starts now! Today I'm bringing you another lover of Trainers/Trainer lover I found recently! So without further ado, here's <name>! He/She has used Trainer's Eye to battle the same Trainer <number> time(s)! Just who was that opponent?! The <Trainer class> <Trainer's name>! But why this Trainer? You know what it must be... Love! It's gotta be! Everybody out there, keep on using' that AreaNav to love those Trainers!"
